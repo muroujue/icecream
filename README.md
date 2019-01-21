@@ -1,7 +1,7 @@
 # icecream-diy
 使用`canvas`实现的一个蛋筒DIY游戏。
 
-###开发中遇到的问题
+### 开发中遇到的问题
 1. canvas 的宽高要直接用width和height属性来设置，不能用css设置，会变形
 2. 绘制虚线的方法
 ```
